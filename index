@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Apex Digital Agency</title>
+  <style>
+    /* Basic CSS for layout */
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+    }
+    header {
+      background-color:Black ;
+      color: #fff;
+      padding: 10px 0;
+      text-align: center;
+    }
+    nav {
+      background-color: #444;
+      padding: 10px 0;
+      text-align: center;
+    }
+    nav a {
+      color: #00FF00;
+      text-decoration: none;
+      margin: 0 10px;
+    }
+    .container {
+      max-width: 800px;
+      margin: 20px auto;
+      padding: 0 20px;
+    }
+    footer {
+      background-color: Black ;
+      color: #fff;
+      text-align: center;
+      padding: 10px 0;
+      position: fixed;
+      bottom: 0;
+      width: 100%;
+    }
+a{color:#00FF00;}
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>Apex Digital Agency</h1>
+    <p>Your Partner in Digital Success</p>
+  </header>
+
+  <nav>
+   <a href="https://www.apexdigitalagency.com.au/">web design Perth</a>
+   <a href="https://www.apexdigitalagency.com.au/web-design/wordpress-web-design/">web designer Perth</a>
+  </nav>
+
+  <div class="container">
+    <section id="web-design">
+      </br>
+	<p>Welcome to Apex Web & Digital Agency (Pvt) Ltd Perth, Perth's top choice for cutting-edge web design. Our skilled team crafts stunning websites, seamlessly blending aesthetics and functionality.
+	Specializing in web design, we bring your vision to life, ensuring a unique online presence tailored to your brand.At Apex, we redefine Perth web design with creativity and technical expertise.
+	Elevate your business with our innovative website design, where every detail is curated for optimal user experience.</p>
+      <h2>Perth Web Design </h2>
+      <p>At Apex Digital Agency, client satisfaction is paramount, and they strive to understand each client's unique goals and objectives to develop customized strategies that drive results. Their team of experienced professionals combines technical expertise with strategic insights to create engaging digital experiences that resonate with target audiences and drive meaningful engagement.</p>
+    </section>
+<p>With a commitment to staying ahead of the curve in the ever-evolving digital landscape, Apex Digital Agency employs cutting-edge tools and techniques to maximize ROI and help businesses thrive in the competitive online marketplace. Whether you're a small startup or a large enterprise, Apex Digital Agency offers scalable solutions designed to meet your specific needs and exceed your expectations.</p>
+    <section id="perth-web-design">
+      <h2> Website Design Perth </h2>
+      <p>Looking for top-notch web design services in Perth? Look no further than Apex Digital Agency. We combine creativity with technical expertise to deliver websites that not only look great but also perform exceptionally well.</p>
+      <p>From responsive design to user-friendly interfaces, we ensure that your website stands out from the competition. Get in touch with us today to learn more about our Perth web design services.</p>
+    </section>
+  
+  </div>
+
+  <footer>
+    <p>Contact Us:</p>
+    <p>Phone: <a href="tel:+61865578980">(08) 6557 8980</a> | <a href="tel:1300617657">1300 617 657</a></p>
+    <p>Address: Level 25, 108 St Georges Terrace, Perth WA 6000</p>
+    <p>Follow Us: <a href="https://twitter.com/ApexDigitalAU">Twitter</a> | <a href="https://www.facebook.com/ApexDigitalAgencyAU/">Facebook</a> | <a href="https://www.linkedin.com/company/apexdigital-agency/">LinkedIn</a> | <a href="https://www.instagram.com/apex_digital_marketing_/">Instagram</a></p>
+  </footer>
+
+</body>
+</html>
